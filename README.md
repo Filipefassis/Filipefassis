@@ -11,6 +11,8 @@ Hello! I'm Filipe Firmino! 👋
 
 ![Firmino GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipefassis&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipefassis)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu estou estudando!💻
 Technologies I'm studying! 💻
 
